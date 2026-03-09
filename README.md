@@ -32,13 +32,13 @@ The system integrates **network communication, computer vision, and intelligent 
 # 🎥 Project Demo
 
 <p align="center">
-  <img src="dashboard.png" width="300"/>
-  <img src="navigation.png" width="300"/>
-  <img src="drowsy.png" width="300"/>
+  <img src="AdaptiveHeadlight.png" width="300"/>
+  <img src="EmeVehPri.png" width="300"/>
+  <img src="DrowDect.png" width="300"/>
 </p>
 
 <p align="center">
-Dashboard Interface • Navigation System • AI Drowsiness Detection
+Adaptive Headlights • Emergency Vehicle Priority • AI Drowsiness Detection
 </p>
 
 ---
